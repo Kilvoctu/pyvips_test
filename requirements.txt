@@ -1,0 +1,11 @@
+firebase-admin>=2.0.0
+gcloud
+imagesize
+py-cord
+python-dotenv
+pyvips
+requests
+tomlkit
+uuid
+urlextract
+urllib3
